@@ -9,4 +9,12 @@
  <a href="https://www.linkedin.com/in/martin-morondo/" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin-profile" height="28px" width="28px" />
   </a>
+<a href="https://www.facebook.com/martinsito.morondo/" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook-profile" height="28px" width="28px" />
+  </a>
+    
+    
+    
+    
+    
   
