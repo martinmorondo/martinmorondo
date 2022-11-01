@@ -10,7 +10,7 @@
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin-profile" height="28px" width="28px" />
   </a>
     <br />
-<a href="https://martinmorondo.github.io/" target="blank" style = "text-decoration: none">My Portfolio
+<a href="https://martinmorondo.github.io/" target="blank" style = "text-decoration: none; color: black;">My Portfolio
 <!--     <img align="center" src="" alt="facebook-profile" height="28px" width="28px" /> -->
   </a>
     
