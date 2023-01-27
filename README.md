@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Typescript and SQL**
 
-- 👨‍💻 All of my projects are available at [https://martinmorondo.github.io/](https://martinmorondo.github.io/)
+- 👨‍💻 All of my projects are available at [https://martinmorondoportfoli0.netlify.app/](https://martinmorondoportfoli0.netlify.app/)
 
 - 📫 How to reach me **martinmorondo@gmail.com**
 
